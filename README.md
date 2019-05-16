@@ -1,5 +1,7 @@
 # video-browser
 
+Youtube interface build with vue, vue cli fro training
+
 ## Project setup
 ```
 npm install
